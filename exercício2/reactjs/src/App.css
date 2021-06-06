@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: 'Fira Code', monospace;
+  text-decoration: none;
+  color: white;
+}
+li{
+  color: black;
+}
+h2{
+  color: black;
+}
+.intro{
+  text-align: center;
+}
+.imgH{
+  height: 215px;
+}
+
+.pH{
+  margin-top: 50px;
+  font-weight: bold;
+  color: black;
+
+}

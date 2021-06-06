@@ -1,0 +1,23 @@
+.erro{
+    text-align: center;
+    margin-top: 250px;
+}
+
+.h1E{
+    color: black;
+}
+.btnE{
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border-style: none;
+    background: #7d43bc;
+    transition: transform 0.2s;
+
+}
+.btnE:active{
+    transform: scale(1.1);
+}
+.btnE:hover{
+    background: #9061c7;
+}

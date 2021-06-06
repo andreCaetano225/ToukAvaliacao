@@ -1,0 +1,5 @@
+COLOCANDO O PROJETO EM FUNCIONAMENTO:
+
+ Instale o JAVA e o JDK 
+
+Bom em java não conseguir fazer muita coisa infelizmente, faz muito tempo que tive contato com java na faculdade porém nada que com alguns dias de estudo faça.

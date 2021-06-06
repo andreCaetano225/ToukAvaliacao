@@ -1,0 +1,18 @@
+.c-t{
+    margin-top: 25px;
+    height: 100px;
+    width: 703px;
+    color: black;
+}
+
+.c-t:focus {
+    border:1px solid black;
+}
+
+.enviar{
+    height: 24px;
+    width: 120px;
+    margin-top: 10px;
+    color: black;
+}  
+

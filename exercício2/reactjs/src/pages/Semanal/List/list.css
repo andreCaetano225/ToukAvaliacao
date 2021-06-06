@@ -1,0 +1,38 @@
+.list1{
+    margin-top: 100px;
+    max-width: 900px;
+}
+
+.done{
+    text-decoration: line-through;
+}
+.bton{
+    border-style: none;
+    margin-right: 20px;
+    background-color: white;
+
+}
+.bton:hover{
+    transform: scale(1.1);
+}
+
+.btli{
+    border-style: none;
+    height: 20px;
+    background-color: white;
+}
+.btli:hover{
+    transform: scale(1.1);
+}
+
+.item{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    font-size: 30px;
+    align-items: center;
+    padding: 15px;
+    margin-top: 15px;
+    box-shadow: 0 2px 7px 1px  rgba(0, 0, 0, 0.2);
+    overflow:auto
+}

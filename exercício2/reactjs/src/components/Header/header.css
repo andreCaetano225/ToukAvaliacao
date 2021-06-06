@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  background-color: #7d43bc;
+
+}
+.logo {
+  height: 90px;
+  width: 90px;
+  margin-left: 122px;
+  border-radius: 25px;
+}
+.ul {
+  display: flex;
+  align-items: center;
+  margin-left: 270px;
+}
+
+.li{
+  margin-right: 41px;
+}
+.li::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  background: #9061c7;
+  transition: width 0.3s;
+}
+.li:hover::after {
+  transition: width 0.3s;
+  width: 100%;
+}

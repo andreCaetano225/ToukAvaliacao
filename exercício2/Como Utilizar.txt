@@ -1,0 +1,11 @@
+COLOCANDO O PROJETO EM FUNCIONAMENTO:
+
+PASSO 1: Instale o NODEJS em sua máquina se já tiver instalado não é necessário instalar novamente.
+
+PASSO 2: Abra a pasta e acesse o terminal do WINDOWS ao acessar o terminal digite NPM START,caso tenha o Yarn instalado é só digitar  YARN START.
+
+PRINCIPAIS FUNCIONALIDADES DO PROJETO:
+
+Foi desenvolvido um sistema simples e fácil onde podemos fazer agendamentos de tarefas tanto semanais, do final de semana, 
+eventos e feriados,basta inserir sua tarefa e ela já vai ser salva, assim podendo ser marcada como concluída 
+ou podendo excluir a tarefa caso queria excluir. 
